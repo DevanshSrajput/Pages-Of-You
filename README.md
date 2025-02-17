@@ -12,13 +12,9 @@
 - 🎨 **Aesthetic Design:** Soft color palettes, elegant typography, and engaging visuals.
 - 📱 **Responsive Design:** Optimized for various screen sizes and devices.
 
-## 🔥 Preview
-
-> _Click on the image to watch the preview video._
-
 ## 🚀 Live Demo
 
-Experience the story live at: **[Deployed Website](https://your-live-demo-link.com)**
+Experience the story live at: **[Deployed Website](https://pages-of-you.netlify.app/)**
 
 ## 📂 Project Structure
 
